@@ -1,0 +1,39 @@
+body {
+  background: none !important;
+}
+.activeClass {
+  background-color: orange !important;
+  color: white !important;
+  font-weight: 700 !important;
+}
+#box1 {
+  width: 500px;
+  height: auto;
+  background-color: lightgreen;
+  border: 2px solid black;
+}
+.greenbox {
+  margin: 20px 10px;
+  height: 100px;
+  width: 100px;
+  background-color: green;
+}
+
+.redbox {
+  margin: 20px 10px;
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
+.bluebox {
+  margin: 20px 10px;
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}
+#box2 {
+  width: 500px;
+  height: auto;
+  background-color: aqua;
+  border: 2px solid black;
+}
